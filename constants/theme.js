@@ -53,6 +53,23 @@ export const COLORS = {
     warning500: '#BC8B2C',
     warning600: '#996F00',
     warning700: '#674D1B',
+
+    // Background
+    backgroundPrimary: '#000000',
+    backgroundSecondary: '#1F1F1F',
+    backgroundTertiary: '#333333',
+    backgroundInversePrimary: '#CBCBCB',
+    backgroundInverseSecondary: '#AFAFAF',
+
+    // Content
+    contentPrimary: '#FFFFFF',
+    contentSecondary: '#CBCBCB',
+    contentTertiary: '#AFAFAF',
+    contentInversePrimary: '#000000',
+    contentInverseSecondary: '#545454',
+    contentInverseTertiary: '#6B6B6B',
+
+    
 }
 
 export const SIZES = {

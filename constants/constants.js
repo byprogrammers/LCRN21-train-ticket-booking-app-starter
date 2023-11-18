@@ -19,6 +19,13 @@ const onboarding_screens = [
     }
 ]
 
+const login = "LOGIN"
+const register = "REGISTER"
+const forgot_password = "FORGOT_PASSWORD"
+
 export default {
-    onboarding_screens
+    onboarding_screens,
+    login,
+    register,
+    forgot_password
 }
